@@ -2,8 +2,11 @@
 
 
 Integrantes
+
 Integrante 1: Betancourt Steven
+
 Integrante 2: Ogonaga Isaac
+
 Integrante 3: Terán Julio
 
 
