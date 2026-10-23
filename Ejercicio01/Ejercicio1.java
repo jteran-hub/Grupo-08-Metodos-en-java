@@ -1,11 +1,12 @@
 public class Ejercicio1 {
 
-    public static int sumar(int a, int b) {
-        return a + b;
+    public static double calcularArea(double base, double altura) {
+        double area = base * altura;
+        System.out.println("El area es: " + area);
+        return area;
     }
 
     public static void main(String[] args) {
-        int resultado = sumar(5, 3);
-        System.out.println("Resultado: " + resultado);
+        calcularArea(5.0, 3.0);
     }
 }
